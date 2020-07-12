@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ChessTable.cpp">
+    <ClCompile Include="tasklist.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
